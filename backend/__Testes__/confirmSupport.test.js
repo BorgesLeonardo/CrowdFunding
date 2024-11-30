@@ -19,7 +19,6 @@ describe('Confirm Support API', () => {
 
     const creatorId = new mongoose.Types.ObjectId();
 
-    // Create a project to confirm support for
     const project = new Project({
       title: 'Support Confirmation Test',
       description: 'Project to confirm support',
