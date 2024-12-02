@@ -41,7 +41,3 @@ MagicFounders é uma aplicação web crowdfunding que busca conectar empresas e 
 4. Inicie o servidor:
     - npm run dev ( iniciar backend )
     - npm run serve ( iniciar frontend )
-  
-## Log
-
-- **Trabalho de log:** O trabalho de log da matéria "Manutenção e melhoria de software" está disponível no github no arquivo "ProjetoLog" 
