@@ -17,6 +17,8 @@ MagicFounders é uma aplicação web crowdfunding que busca conectar empresas e 
 - **Backend:** Node.js com Mongoose para gerenciamento de rotas e controle de sessão.
 - **Database:** MongoDB para armazenamento de dados de projetos e usuários.
 - **Autenticação:** JWT para manejo seguro da autenticação de usuários.
+- **Testes:** Jest para testes unitários.
+
 
 ## Instalação
 
